@@ -1,6 +1,6 @@
 # 💫 About Me  
-🎓 Final-year **Mechanical Engineering student at IIT Ropar** with a strong focus on **simulation-driven product development and mechanical analysis**.  
-⚙️ Passionate about **CAE, CFD, FEA, and multiphysics simulations** using industry-standard tools.  
+🎓 Final-year **Mechanical Engineering student at IIT Ropar** with a strong focus on **mechanical analysis and simulation-driven explorations**.  
+⚙️ Passionate about **CAE, CFD, FEA, and multiphysics simulations** using industry-standard tools like **OpenFOAM** and **Abaqus**.  
 📊 Skilled in creating reliable engineering insights from simulation data to support **design, performance, and optimization**.  
 🎥 Outside of engineering, I run a YouTube channel (*The Unfiltered Guyy*) where I share insights, experiences, and creative content.  
 
